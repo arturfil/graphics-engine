@@ -1,6 +1,6 @@
 # graphics-engine
 
-In order to run this file make sure to have the make application in your dev-environment (for linux & mac).
+In order to run this file make sure to have the make application in your dev-environment (for linux, mac or mingw).
 
 see the commands in the Makefile, type make and the following options: 
 e.g: make <option>
